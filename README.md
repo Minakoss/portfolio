@@ -3,4 +3,4 @@ This is a project made by using HTML - SCSS
 You can see the full demo here
 
 ## Screenshoots
-![](/Users/nontaspapastefanis/Desktop/portfolio/assets/Images/Screenshot 2024-06-07 at 10.48.22 PM.png)
+![Portfolio](https://raw.githubusercontent.com/Minakoss/portfolio/master/assets/Images/Screenshot%202024-06-07%20at%2010.48.22%20PM.png)
